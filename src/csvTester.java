@@ -13,8 +13,8 @@ public class csvTester {//Google Maps Geocoding API Key: AIzaSyB7TaYb8qpe8TLAB65
 		}
 
 		//dA.printStudents();
-		Student cole = new Student("Cole","7:30","3:00",5,"391 Pine Tree Dr. NE, Atlanta GA, 30305");
-		Student richard = new Student("Richard", "8:00", "3:30", 5, "790 Stovall Blvd. NE, Atlanta GA, 30342");
+//		Student cole = new Student("Cole","7:30","3:00",5,"391 Pine Tree Dr. NE, Atlanta GA, 30305");
+//		Student richard = new Student("Richard", "8:00", "3:30", 5, "790 Stovall Blvd. NE, Atlanta GA, 30342");
 
 		//System.out.println(dA.makeURL(cole)); //just checking to make sure the URL is accurate
 		//System.out.println(dA.dataPage(cole));
