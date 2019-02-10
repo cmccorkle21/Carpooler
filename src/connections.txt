@@ -1,0 +1,238 @@
+Richard Ellis-Zeke Diamond-14.0
+Richard Ellis-Joseph Mathias-16.0
+Richard Ellis-Ryan Mazur-16.0
+Richard Ellis-Hannah Schrager-9.0
+Richard Ellis-Luke Moussa-22.0
+Richard Ellis-Elijah Asher-13.0
+Richard Ellis-Nicholas McCorkle-12.0
+Richard Ellis-Marc Mitchell-8.0
+Richard Ellis-Ethan Much-7.0
+Richard Ellis-Charles Ratcliff-23.0
+Richard Ellis-Nathaniel Reece-11.0
+Richard Ellis-Mary Richardson-5.0
+Richard Ellis-Catherine Sweeney-10.0
+Richard Ellis-Sloan Wyatt-14.0
+
+
+Zeke Diamond-Richard Ellis-16.0
+Zeke Diamond-Joseph Mathias-12.0
+Zeke Diamond-Ryan Mazur-19.0
+Zeke Diamond-Hannah Schrager-11.0
+Zeke Diamond-Luke Moussa-14.0
+Zeke Diamond-Elijah Asher-16.0
+Zeke Diamond-Nicholas McCorkle-18.0
+Zeke Diamond-Marc Mitchell-13.0
+Zeke Diamond-Ethan Much-11.0
+Zeke Diamond-Charles Ratcliff-15.0
+Zeke Diamond-Nathaniel Reece-18.0
+Zeke Diamond-Mary Richardson-16.0
+Zeke Diamond-Catherine Sweeney-13.0
+Zeke Diamond-Sloan Wyatt-13.0
+
+
+Joseph Mathias-Richard Ellis-16.0
+Joseph Mathias-Zeke Diamond-12.0
+Joseph Mathias-Ryan Mazur-13.0
+Joseph Mathias-Hannah Schrager-10.0
+Joseph Mathias-Luke Moussa-9.0
+Joseph Mathias-Elijah Asher-9.0
+Joseph Mathias-Nicholas McCorkle-17.0
+Joseph Mathias-Marc Mitchell-15.0
+Joseph Mathias-Ethan Much-13.0
+Joseph Mathias-Charles Ratcliff-10.0
+Joseph Mathias-Nathaniel Reece-11.0
+Joseph Mathias-Mary Richardson-17.0
+Joseph Mathias-Catherine Sweeney-9.0
+Joseph Mathias-Sloan Wyatt-19.0
+
+
+Ryan Mazur-Richard Ellis-17.0
+Ryan Mazur-Zeke Diamond-19.0
+Ryan Mazur-Joseph Mathias-12.0
+Ryan Mazur-Hannah Schrager-19.0
+Ryan Mazur-Luke Moussa-17.0
+Ryan Mazur-Elijah Asher-9.0
+Ryan Mazur-Nicholas McCorkle-12.0
+Ryan Mazur-Marc Mitchell-22.0
+Ryan Mazur-Ethan Much-21.0
+Ryan Mazur-Charles Ratcliff-16.0
+Ryan Mazur-Nathaniel Reece-9.0
+Ryan Mazur-Mary Richardson-21.0
+Ryan Mazur-Catherine Sweeney-16.0
+Ryan Mazur-Sloan Wyatt-23.0
+
+
+Hannah Schrager-Richard Ellis-9.0
+Hannah Schrager-Zeke Diamond-11.0
+Hannah Schrager-Joseph Mathias-9.0
+Hannah Schrager-Ryan Mazur-20.0
+Hannah Schrager-Luke Moussa-17.0
+Hannah Schrager-Elijah Asher-12.0
+Hannah Schrager-Nicholas McCorkle-17.0
+Hannah Schrager-Marc Mitchell-7.0
+Hannah Schrager-Ethan Much-6.0
+Hannah Schrager-Charles Ratcliff-18.0
+Hannah Schrager-Nathaniel Reece-12.0
+Hannah Schrager-Mary Richardson-8.0
+Hannah Schrager-Catherine Sweeney-4.0
+Hannah Schrager-Sloan Wyatt-16.0
+
+
+Luke Moussa-Richard Ellis-21.0
+Luke Moussa-Zeke Diamond-12.0
+Luke Moussa-Joseph Mathias-9.0
+Luke Moussa-Ryan Mazur-16.0
+Luke Moussa-Hannah Schrager-17.0
+Luke Moussa-Elijah Asher-13.0
+Luke Moussa-Nicholas McCorkle-21.0
+Luke Moussa-Marc Mitchell-18.0
+Luke Moussa-Ethan Much-16.0
+Luke Moussa-Charles Ratcliff-8.0
+Luke Moussa-Nathaniel Reece-15.0
+Luke Moussa-Mary Richardson-21.0
+Luke Moussa-Catherine Sweeney-16.0
+Luke Moussa-Sloan Wyatt-18.0
+
+
+Elijah Asher-Richard Ellis-13.0
+Elijah Asher-Zeke Diamond-14.0
+Elijah Asher-Joseph Mathias-7.0
+Elijah Asher-Ryan Mazur-9.0
+Elijah Asher-Hannah Schrager-11.0
+Elijah Asher-Luke Moussa-13.0
+Elijah Asher-Nicholas McCorkle-11.0
+Elijah Asher-Marc Mitchell-15.0
+Elijah Asher-Ethan Much-14.0
+Elijah Asher-Charles Ratcliff-13.0
+Elijah Asher-Nathaniel Reece-4.0
+Elijah Asher-Mary Richardson-14.0
+Elijah Asher-Catherine Sweeney-8.0
+Elijah Asher-Sloan Wyatt-19.0
+
+
+Nicholas McCorkle-Richard Ellis-12.0
+Nicholas McCorkle-Zeke Diamond-18.0
+Nicholas McCorkle-Joseph Mathias-15.0
+Nicholas McCorkle-Ryan Mazur-13.0
+Nicholas McCorkle-Hannah Schrager-17.0
+Nicholas McCorkle-Luke Moussa-21.0
+Nicholas McCorkle-Elijah Asher-10.0
+Nicholas McCorkle-Marc Mitchell-18.0
+Nicholas McCorkle-Ethan Much-18.0
+Nicholas McCorkle-Charles Ratcliff-21.0
+Nicholas McCorkle-Nathaniel Reece-8.0
+Nicholas McCorkle-Mary Richardson-16.0
+Nicholas McCorkle-Catherine Sweeney-16.0
+Nicholas McCorkle-Sloan Wyatt-18.0
+
+
+Marc Mitchell-Richard Ellis-9.0
+Marc Mitchell-Zeke Diamond-14.0
+Marc Mitchell-Joseph Mathias-15.0
+Marc Mitchell-Ryan Mazur-23.0
+Marc Mitchell-Hannah Schrager-8.0
+Marc Mitchell-Luke Moussa-21.0
+Marc Mitchell-Elijah Asher-15.0
+Marc Mitchell-Nicholas McCorkle-18.0
+Marc Mitchell-Ethan Much-5.0
+Marc Mitchell-Charles Ratcliff-23.0
+Marc Mitchell-Nathaniel Reece-14.0
+Marc Mitchell-Mary Richardson-8.0
+Marc Mitchell-Catherine Sweeney-9.0
+Marc Mitchell-Sloan Wyatt-15.0
+
+
+Ethan Much-Richard Ellis-7.0
+Ethan Much-Zeke Diamond-11.0
+Ethan Much-Joseph Mathias-12.0
+Ethan Much-Ryan Mazur-22.0
+Ethan Much-Hannah Schrager-6.0
+Ethan Much-Luke Moussa-19.0
+Ethan Much-Elijah Asher-14.0
+Ethan Much-Nicholas McCorkle-17.0
+Ethan Much-Marc Mitchell-4.0
+Ethan Much-Charles Ratcliff-21.0
+Ethan Much-Nathaniel Reece-12.0
+Ethan Much-Mary Richardson-7.0
+Ethan Much-Catherine Sweeney-8.0
+Ethan Much-Sloan Wyatt-14.0
+
+
+Charles Ratcliff-Richard Ellis-23.0
+Charles Ratcliff-Zeke Diamond-15.0
+Charles Ratcliff-Joseph Mathias-10.0
+Charles Ratcliff-Ryan Mazur-16.0
+Charles Ratcliff-Hannah Schrager-18.0
+Charles Ratcliff-Luke Moussa-8.0
+Charles Ratcliff-Elijah Asher-13.0
+Charles Ratcliff-Nicholas McCorkle-21.0
+Charles Ratcliff-Marc Mitchell-21.0
+Charles Ratcliff-Ethan Much-19.0
+Charles Ratcliff-Nathaniel Reece-15.0
+Charles Ratcliff-Mary Richardson-24.0
+Charles Ratcliff-Catherine Sweeney-17.0
+Charles Ratcliff-Sloan Wyatt-20.0
+
+
+Nathaniel Reece-Richard Ellis-11.0
+Nathaniel Reece-Zeke Diamond-16.0
+Nathaniel Reece-Joseph Mathias-9.0
+Nathaniel Reece-Ryan Mazur-9.0
+Nathaniel Reece-Hannah Schrager-12.0
+Nathaniel Reece-Luke Moussa-16.0
+Nathaniel Reece-Elijah Asher-4.0
+Nathaniel Reece-Nicholas McCorkle-8.0
+Nathaniel Reece-Marc Mitchell-14.0
+Nathaniel Reece-Ethan Much-13.0
+Nathaniel Reece-Charles Ratcliff-15.0
+Nathaniel Reece-Mary Richardson-13.0
+Nathaniel Reece-Catherine Sweeney-10.0
+Nathaniel Reece-Sloan Wyatt-20.0
+
+
+Mary Richardson-Richard Ellis-6.0
+Mary Richardson-Zeke Diamond-16.0
+Mary Richardson-Joseph Mathias-17.0
+Mary Richardson-Ryan Mazur-20.0
+Mary Richardson-Hannah Schrager-8.0
+Mary Richardson-Luke Moussa-23.0
+Mary Richardson-Elijah Asher-15.0
+Mary Richardson-Nicholas McCorkle-16.0
+Mary Richardson-Marc Mitchell-7.0
+Mary Richardson-Ethan Much-7.0
+Mary Richardson-Charles Ratcliff-26.0
+Mary Richardson-Nathaniel Reece-13.0
+Mary Richardson-Catherine Sweeney-10.0
+Mary Richardson-Sloan Wyatt-17.0
+
+
+Catherine Sweeney-Richard Ellis-11.0
+Catherine Sweeney-Zeke Diamond-13.0
+Catherine Sweeney-Joseph Mathias-9.0
+Catherine Sweeney-Ryan Mazur-18.0
+Catherine Sweeney-Hannah Schrager-4.0
+Catherine Sweeney-Luke Moussa-17.0
+Catherine Sweeney-Elijah Asher-9.0
+Catherine Sweeney-Nicholas McCorkle-16.0
+Catherine Sweeney-Marc Mitchell-9.0
+Catherine Sweeney-Ethan Much-9.0
+Catherine Sweeney-Charles Ratcliff-18.0
+Catherine Sweeney-Nathaniel Reece-10.0
+Catherine Sweeney-Mary Richardson-10.0
+Catherine Sweeney-Sloan Wyatt-18.0
+
+
+Sloan Wyatt-Richard Ellis-15.0
+Sloan Wyatt-Zeke Diamond-12.0
+Sloan Wyatt-Joseph Mathias-18.0
+Sloan Wyatt-Ryan Mazur-21.0
+Sloan Wyatt-Hannah Schrager-17.0
+Sloan Wyatt-Luke Moussa-19.0
+Sloan Wyatt-Elijah Asher-20.0
+Sloan Wyatt-Nicholas McCorkle-18.0
+Sloan Wyatt-Marc Mitchell-16.0
+Sloan Wyatt-Ethan Much-15.0
+Sloan Wyatt-Charles Ratcliff-21.0
+Sloan Wyatt-Nathaniel Reece-18.0
+Sloan Wyatt-Mary Richardson-16.0
+Sloan Wyatt-Catherine Sweeney-19.0
