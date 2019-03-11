@@ -10,5 +10,7 @@ public class nineteenTest {
             System.out.println("Something went wrong");
         }
 
+        dA.makeAGraph();
+
     }
 }

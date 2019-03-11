@@ -102,6 +102,7 @@ public class dataAnalyzer {
 	public String dataPage(String URL){//takes in a student and returns the latitude/longitude of their home address
 		String toReturn = "";
 
+
 		try {
 			URLConnection connection = new URL(URL).openConnection();			//connection.setRequestProperty("Accept-Charset", charset);
 			InputStream response = connection.getInputStream();
@@ -206,6 +207,8 @@ public class dataAnalyzer {
 	*@param s2 destination student
 	*@return the distance between two students, in minutes
 	**/
+
+	//@TODO fix this outofbounds error
 	public double distanceMinutes(Student s1, Student s2){
 		String matrix = dataPage(matrixURL(s1, s2));
 		//System.out.println("MATRIX: "+matrixURL(s1, s2)); //for use if we want to print out the matrix url too
